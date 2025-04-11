@@ -1,6 +1,4 @@
 #### 👾 Hey, I'm Mayowa Temitope, Akinyele!
-
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Data+is+my+Superpower)  
 *Data is my canvas, and I sculpt insights with code and chaos.*
 
 I'm a **Data Scientist & ML Engineer** who thrives on wrangling messy datasets, building predictive models, and uncovering truths hidden in numbers. Whether it's training neural nets, optimizing pipelines, or visualizing stories in data, I'm here to turn raw info into actionable magic.
