@@ -1,4 +1,4 @@
-# 👾 Hey, I'm Mayowa Temitope, Akinyele!
+#### 👾 Hey, I'm Mayowa Temitope, Akinyele!
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Data+is+my+Superpower)  
 *Data is my canvas, and I sculpt insights with code and chaos.*
