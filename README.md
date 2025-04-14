@@ -27,7 +27,7 @@ I'm a **Data Scientist & ML Engineer** who thrives on wrangling messy datasets, 
 ---
 
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/RobaireTH) — For the professional vibes.
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayowa-akinyele-0b948a34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) — For the professional vibes.
 - 🐦 [X](https://x.com/0xRobaire) — Where I rant about data and coffee.
 - 📧 [Email](robaireth@gmail.com) — For collabs or just to say hi.
 
