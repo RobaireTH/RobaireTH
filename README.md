@@ -1,39 +1,26 @@
-#### 👾 Hey, I'm Mayowa Temitope, Akinyele!
-*Data is my canvas, and I sculpt insights with code and chaos.*
+<h1 align="center">Hi 👋, I'm Mayowa Temitope, Akinyele</h1>
+<h3 align="center">A passionate Data Scientist from Nigeria</h3>
 
-I'm a **Data Scientist & ML Engineer** who thrives on wrangling messy datasets, building predictive models, and uncovering truths hidden in numbers. Whether it's training neural nets, optimizing pipelines, or visualizing stories in data, I'm here to turn raw info into actionable magic.
+- 👨‍💻 All of my projects are available at [#](#)
 
----
+- 📫 How to reach me **robaireth@gmail.com**
 
-## 🔥 What I Do
-- 📊 **Analyzing**: Transforming raw data into insights.
-- 🤖 **Modeling**: Crafting ML models that predict, classify, and cluster like nobody’s business.
-- 🌌 **Exploring**: Deep dives into AI, NLP, computer vision—always chasing the next breakthrough.
-- 📝 **Sharing**: Writing about data science, open-source ML, and my wild experiments
+- ⚡ Fun fact **I think I am funny**
 
-## 🛠️ My Tech Arsenal
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-*...and a whole lot more. Check my repos for the full arsenal!*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xrobaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xrobaire" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/robaireth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robaireth" height="30" width="40" /></a>
+<a href="https://kaggle.com/robaireth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="robaireth" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/robaireth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robaireth" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/robaireth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robaireth" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobaireTH&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobaireTH&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spikeybaire&show_icons=true&locale=en&layout=compact" alt="spikeybaire" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spikeybaire&show_icons=true&locale=en" alt="spikeybaire" /></p>
 
-## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayowa-akinyele-0b948a34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) — For the professional vibes.
-- 🐦 [X](https://x.com/0xRobaire) — Where I rant about data and coffee.
-- 📧 [Email](robaireth@gmail.com) — For collabs or just to say hi.
-
----
-
-*“Code hard, love soft.”*  
-Thanks for stopping by—now go uncover something legendary! 🚀
-
-![Footer GIF](https://media.giphy.com/media/3o7aDcz7aJqQzO4mMo/giphy.gif)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spikeybaire&" alt="spikeybaire" /></p>
