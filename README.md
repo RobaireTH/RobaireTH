@@ -1,8 +1,23 @@
-# 👋 Hi, I'm [Your Name]!
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand animation"/>
+</p>
 
-I'm a **Data Scientist** passionate about transforming raw data into actionable insights. I love tackling complex problems, building predictive models, and creating data-driven solutions that make an impact. When I'm not crunching numbers, you can find me exploring new datasets or sipping coffee while debugging code.
+<h1 align="center">Yo, I'm Mayowa! 👨‍💻</h1>
 
-🌟 **Fun Fact**: I once predicted the weather better than my local meteorologist using a custom ML model!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;Coffee-Fueled+Coder" alt="Typing animation"/>
+</p>
+
+I'm a **Data Scientist** who lives for turning messy data into stories that actually make sense. I geek out over building models that predict the future (kinda), digging into patterns, and making visuals that pop. When I'm not knee-deep in code, I'm probably overanalyzing my Spotify Wrapped or trying to beat my own high score in debugging.
+
+🌟 **Random Tidbit**: I once built a model that guessed my pizza order better than my best friend. 🍕
+
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -36,21 +51,21 @@ I'm a **Data Scientist** passionate about transforming raw data into actionable 
 
 ---
 
-## 🔍 What I Do
-- Build and deploy **machine learning models** for predictive analytics.
-- Perform **exploratory data analysis** to uncover hidden patterns.
-- Create **data visualizations** to communicate insights effectively.
-- Design **data pipelines** for efficient processing and scalability.
-- Collaborate with cross-functional teams to solve real-world problems.
+## 🔍 What's My Deal?
+- Crafting **machine learning models** that predict stuff before it happens.
+- Diving into **data exploration** to find the juicy bits hidden in the noise.
+- Whipping up **visualizations** that make people go, "Oh, *that's* what it means!"
+- Building **data pipelines** that run smoother than my morning coffee routine.
+- Teaming up with folks to solve problems that matter.
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 X: [@YourHandle](https://x.com/yourhandle)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+## 📫 Hit Me Up!
+- 📧 Email: [robaireth@gmail.com](mailto:robaireth@gmail.com)
+- 💼 LinkedIn: [Mayowa Akinyele](https://www.linkedin.com/in/mayowa-akinyele-0b948a34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🐦 X: [@0xRobaire](https://x.com/0xRobaire)
+- 🌐 Portfolio: [my-port-lake.vercel.app](https://my-port-lake.vercel.app)
 
----
-
-⭐️ **Thanks for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding animation"/>
+</p>
