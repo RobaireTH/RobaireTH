@@ -16,7 +16,7 @@ I'm a **Data Scientist** who lives for turning messy data into stories that actu
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robaireth&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
