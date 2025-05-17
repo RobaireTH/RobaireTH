@@ -20,6 +20,7 @@ I'm a data scientist and machine learning engineer passionate about turning data
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
+<figure><embed src="https://wakatime.com/share/@583b513d-5986-419e-a1d8-d5c93f57dfc9/777dae6d-76d3-4954-835f-6d42cbde4991.svg"></embed></figure>
 ---
 
 ### 📊 Data Science & ML
