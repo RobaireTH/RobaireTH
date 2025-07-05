@@ -77,7 +77,8 @@ I'm a data scientist and machine learning engineer passionate about turning data
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/0xRobaire)
+- [LinkedIn](https://linkedin.com/in/RobaireTH)
+- [X] (https://twitter.com/0xRobaire)
 - [Portfolio](https://robaireth.vercel.app)
 - [Email](mailto:robaireth@gmail.com)
 
