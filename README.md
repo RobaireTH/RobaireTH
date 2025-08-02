@@ -46,7 +46,7 @@ From building data pipelines to training and serving models at scale — I love 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-1676B5?style=for-the-badge)
-![ZenML](https://img.shields.io/badge/Built%20with-ZenML-ff7a59?style=for-the-badge&logo=zenml)
+![ZenML](https://img.shields.io/badge/ZenML-ff7a59?style=for-the-badge&logo=zenml)
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?logo=weightsandbiases&logoColor=black&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
